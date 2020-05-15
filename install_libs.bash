@@ -1,1 +1,1 @@
-pip install scipy matplotlib pandas scikit-learn statsmodels
+conda install scipy matplotlib pandas scikit-learn statsmodels notebook
